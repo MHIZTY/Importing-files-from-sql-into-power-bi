@@ -1,0 +1,4 @@
+CREATE DATABASE BANK;
+USE BANK;
+
+SELECT TOP 25 * FROM [Bank Term Subscription CSV];
